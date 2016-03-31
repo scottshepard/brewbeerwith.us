@@ -1,0 +1,23 @@
+{
+  "name": "brewbeerwith.us",
+  "version": "1.0.0",
+  "description": "Website for brewbeerwith.us",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottshepard/brewbeerwith.us.git"
+  },
+  "author": "Scott Shepard, Patrick Krawczykowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottshepard/brewbeerwith.us/issues"
+  },
+  "homepage": "https://github.com/scottshepard/brewbeerwith.us#readme",
+  "dependencies": {
+    "hapi": "^13.2.2",
+    "inert": "^3.2.0"
+  }
+}
