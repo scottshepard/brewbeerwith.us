@@ -9,7 +9,7 @@ This is assuming you have nothing of the requirements installed. Also assuming y
 1. Run `brew update`
 1. Install Node `brew node` // comes with latest npm as well
 1. Get into the directory `cd ~/home/folder/brewbeerwith.us`
-1. Install dependency `npm install`
+1. Install dependencies `npm install`
 1. Run the server  `npm start`
 
 You're all set.
