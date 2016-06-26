@@ -8,6 +8,16 @@ Bottle:
 OG:  
 FG:  
 
+Grain Bill
+- 5 lbs Belgian Pils
+- 4.5 lbs Flaked Wheat
+- 1.1 lbs Flaked Oats
+- 0.26 lbs CaraMunich Malt
+
+1 oz Halleutau @ 60 min  
+
+WYEAST Belgian Wheat 3942  	
+
 ## Brew 7: Blueberry Wheat Ale
 
 Brew: 06/04/2016  
@@ -22,15 +32,11 @@ Brew: 05/15/2016
 Bottle: 06/04/2016  
 
 OG: 1.028  
-FG:   
 
 ## Brew 5: Belgian Wit
 
 Brew: 04/24/2016  
 Bottle: 05/16/2016  
-
-OG:  
-FG:  
 
 ## Brew 4: German Alt Beir
 
@@ -45,22 +51,14 @@ FG: 1.014
 Brew: 02/20/2016  
 Bottle: 03/12/2016  
 
-OG:  
-FG:  
 
 ## Brew 2: Milk Stout
 
 Brew: 02/06/2016  
 Bottle: 02/20/2016  
 
-OG:  
-FG:  
 
 ## Brew 1: Habanero Mango Wheat Ale
 
 Brew: 01/16/2016  
 Bottle: 02/06/2016  
-
-OG:  
-FG:  
-
