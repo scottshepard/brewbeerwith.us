@@ -15,11 +15,11 @@ Grain Bill
 - 0.26 lbs CaraMunich Malt
 
 1 oz Halleutau @ 60 min  
-1.5 tbsp fresh orange zest @ 10 min
-1.5 tbsp fresh lemon zest @ 10 min
-1 tbsp bitter orange peel @ 10 min
-1 tbsp cracked black pepper @ 10 min
-1 tbsp cracked coriander seed @ 10 min
+1.5 tbsp fresh orange zest @ 10 min  
+1.5 tbsp fresh lemon zest @ 10 min  
+1 tbsp bitter orange peel @ 10 min  
+1 tbsp cracked black pepper @ 10 min  
+1 tbsp cracked coriander seed @ 10 min  
 
 WYEAST Belgian Wheat 3942  	
 
