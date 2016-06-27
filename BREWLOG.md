@@ -1,20 +1,25 @@
 # Brew Log
 
-## Brew 8: Belgian Wit 2.0
+## Brew 8: Belgian Wheat
 
 Brew: 06/26/2016  
 Bottle:  
 
-OG:  
+OG: 1.061  
 FG:  
 
 Grain Bill
-- 5 lbs Belgian Pils
+- 8 lbs Belgian Pils
 - 4.5 lbs Flaked Wheat
 - 1.1 lbs Flaked Oats
 - 0.26 lbs CaraMunich Malt
 
 1 oz Halleutau @ 60 min  
+1.5 tbsp fresh orange zest @ 10 min
+1.5 tbsp fresh lemon zest @ 10 min
+1 tbsp bitter orange peel @ 10 min
+1 tbsp cracked black pepper @ 10 min
+1 tbsp cracked coriander seed @ 10 min
 
 WYEAST Belgian Wheat 3942  	
 
