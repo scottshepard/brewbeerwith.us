@@ -12,7 +12,7 @@ server.register(
 
   server.route({
     method: 'GET',
-    path: '/',
+    path: '/*',
     handler: (req, res) => {
       res.file('index.html');
     }

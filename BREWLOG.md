@@ -1,12 +1,33 @@
 # Brew Log
 
+## Brew 9: Harry Porter (Baltic Porter)
+Brew: 08/14/2016
+Bottle:
+
+OG: 1.014
+FG:
+
+Grain Bill
+- 17 lbs UK Pale
+- 0.63 Briess Caramel 20L
+- 0.63 Briess Caremel 80L
+- 0.31 Black (Patent) Malt
+- 0.31 Chocolate Malt
+- 0.31 Munich Malt
+
+2.75 oz Fuggle @ 90 min
+0.75 oz Cascade @ 15 min
+8oz molasses @ 10 min
+
+WYEAST UK ALE -- I forget the actual number
+
 ## Brew 8: Belgian Wheat
 
 Brew: 06/26/2016  
-Bottle:  
+Bottle: 08/14/2016
 
 OG: 1.061  
-FG:  
+FG: // I don't remember if we took this. I think we did though. Actually I'm sure we did.
 
 Grain Bill
 - 8 lbs Belgian Pils
