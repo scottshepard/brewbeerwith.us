@@ -4,7 +4,7 @@
 Brew: 08/14/2016
 Bottle:
 
-OG: 1.014
+OG: 1.074  
 FG:
 
 Grain Bill
@@ -26,8 +26,9 @@ WYEAST UK ALE -- I forget the actual number
 Brew: 06/26/2016  
 Bottle: 08/14/2016
 
-OG: 1.061  
-FG: // I don't remember if we took this. I think we did though. Actually I'm sure we did.
+OG:  1.061  
+FG:  1.014  
+ABV: 6.30%  
 
 Grain Bill
 - 8 lbs Belgian Pils
